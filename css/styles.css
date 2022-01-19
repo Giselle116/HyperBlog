@@ -1,5 +1,17 @@
 body
 {
     text-align: center;
-    color: chocolate;
+    color: rgb(10, 85, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{   
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid darkolivegreen;
+    margin: 0 auto
 }
