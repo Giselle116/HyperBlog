@@ -7,6 +7,23 @@ body
     padding: 0;
 }
 
+#cabecera
+{
+    background-color: rgb(55, 70, 30);
+    color: white;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0.9em;
+}
+
+#cabecera #minicabe
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    
+}
+
 #container
 {   
     width: 70%;
