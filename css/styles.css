@@ -7,6 +7,11 @@ body
     padding: 0;
 }
 
+#spanono
+{
+    color: purple;
+}
+
 #cabecera
 {
     background-color: rgb(55, 70, 30);
