@@ -9,7 +9,7 @@ body
 
 #spanini
 {
-   color: rgb(148, 111, 148);
+   color: rgb(250, 248, 124);
 }
 
 #cabecera
@@ -19,6 +19,7 @@ body
     font-weight: bold;
     margin: 0%;
     padding: 0.9em;
+    font-size: 20px;
 }
 
 #cabecera #minicabe
@@ -53,4 +54,9 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#h1
+{
+    color: rgb(95, 131, 148);
 }
