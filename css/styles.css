@@ -1,24 +1,25 @@
 body
 {
     text-align: center;
-    color: rgb(10, 85, 10);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(132, 168, 166);
+    font-family:CHICKEN Pie Height;
     margin: 0;
     padding: 0;
 }
 
 #spanini
 {
-   color: rgb(165, 67, 165);
+   color: rgb(250, 248, 124);
 }
 
 #cabecera
 {
-    background-color: rgb(55, 70, 30);
-    color: rgb(0, 0, 0);
+    background-color: rgb(255, 161, 161);
+    color: rgb(156, 105, 107);
     font-weight: bold;
     margin: 0%;
     padding: 0.9em;
+    font-size: 20px;
 }
 
 #cabecera #minicabe
@@ -29,11 +30,33 @@ body
     
 }
 
+#cabecera #logo
+{
+    width: 65px;
+    vertical-align: middle;
+}
+
 #container
 {   
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid darkolivegreen;
+    border: 1px solid rgb(112, 42, 83);
     margin: 0 auto
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+
+#h1
+{
+    color: rgb(95, 131, 148);
 }
