@@ -37,3 +37,8 @@ body
     border: 1px solid darkolivegreen;
     margin: 0 auto
 }
+
+#h2
+{
+    color: rgb(162, 197, 96);
+}
