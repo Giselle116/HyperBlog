@@ -7,11 +7,6 @@ me gusta mucho el sushi y quiero ser muy alta
 
 me encanta harry potter tengo muchas cosas de harry potter
 
-alteremos el archivo
-<<<<<<< HEAD
-
-//////////////////////////////////////////////////////////////
-
 HI MY NAME IS ISABEL THE END
-=======
->>>>>>> 27f97f2186b3861bead18c82efa9317c49d238ce
+
+Master 1
