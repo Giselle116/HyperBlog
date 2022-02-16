@@ -3,3 +3,7 @@ HyperBlog es un simple nombre y no tiene nada interesante de mi parte, pero a si
 
 #### Curso profesional de Git y GitHub
 *Clase 38
+<<<<<<< HEAD
+=======
+*Git cherry-pick
+>>>>>>> para-stash
